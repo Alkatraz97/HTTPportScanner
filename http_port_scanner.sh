@@ -4,7 +4,7 @@
 HOSTS_FILE="hosts.txt"
 
 # Lista delle porte comuni HTTP/HTTPS da scansionare
-PORTS=(80 443 8000 8080 8443 9090)
+PORTS=(80 81 443 8000 8080 8081 8081 8008 4443 8443 9090 9091 9092)
 
 # Tempo massimo di timeout per la connessione (in secondi)
 TIMEOUT=2
